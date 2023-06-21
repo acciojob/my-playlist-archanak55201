@@ -1,11 +1,38 @@
 /*  your css code here. If applicable */
-*{
-	background-color:#CCCCCC;
+body{
+    background-color: #ccc;
 }
-div{
-	background-color:white;
-	font-color:black;
-	width:90%;
-	padding:10px;
-	border:1px solid black;
+h1{
+    text-align: center;
+}
+.player_one{
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+h3{
+    text-align: center;
+}
+.player_two{
+   
+    background-color: white;
+    border: 1px solid #CCCCCC;
+    padding:10px;
+   width:320px;
+    
+}
+div h3{
+    text-align: center;
+}
+div audio{
+    padding-left: 10px;
+}
+p{
+    padding-left: 20px;
 }
