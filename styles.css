@@ -19,6 +19,9 @@ a{
 h3{
     text-align: center;
 }
+ul{
+	list-style-type:none;
+}
 .player_two{
    
     background-color: white;
